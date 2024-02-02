@@ -30,7 +30,7 @@ const AllUser = () => {
 const handleDelete= (user)=>{
   
     Swal.fire({
-        title: 'Are you sure?',
+        title: 'Are you sure ?',
         text: "You won't be able to recover it!",
         textColor:'#0000',
         icon: 'warning',
